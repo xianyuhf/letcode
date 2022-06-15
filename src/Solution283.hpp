@@ -26,7 +26,7 @@ public:
     void moveZeroes(vector<int>& nums) {
         int indexNow=0;
         int indexNum=0;
-        int m = nums.length;
+        int m = nums.size();
         while(indexNum<m){
             if(nums[indexNum])
                 nums[indexNow++]=nums[indexNum];
