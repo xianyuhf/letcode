@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "algorithm": "cpp",
+        "string": "cpp",
+        "unordered_set": "cpp"
+    }
+}
