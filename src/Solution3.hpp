@@ -1,7 +1,6 @@
 #ifndef SOLUTION3_HPP
 #define SOLUTION3_HPP
 #include "pch.h"
-#include <string>
 class Solution3
 {
 private:
