@@ -1,2 +1,2 @@
 # letcode
-this‘s be used  to learn.
+This‘s be used  to learn.
